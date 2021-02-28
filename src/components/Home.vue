@@ -27,7 +27,7 @@ export default {
     return {
       checkBox: false,
       prompt:
-        "Don't be absintheminded, make yourself tidal to join in the mascarete. O gig goggle of gigguels. I can't tell you how! (Type in the box and submit to generate text)",
+        "Don't be absintheminded -- type in the box, hit enter and wait a sec to generate text!",
     };
   },
   methods: {
